@@ -96,13 +96,11 @@ pip install opencv-python numpy tensorflow pyserial
 python inference.py
 
 Ensure the trained model and required video inputs are available before execution.
+## Project Demonstration
 
-Project Demonstration
+Watch the Street Sentinel project demonstration:
 
-Watch the project demonstration to understand the AI-based activity detection and IoT hardware integration.
-
-Reference Video: [Add Your Video Link Here]
-
+[Watch Street Sentinel Demo](https://drive.google.com/file/d/1QfD-Trt3_nRweyyL6VJo634zb22_OErd/view)
 Challenges and Technical Learning
 
 - Integrating deep learning-based video analysis with physical IoT hardware.
